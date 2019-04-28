@@ -1,0 +1,17 @@
+public class F1rstApp {
+    public static void main(String[] args){
+
+
+        System.out.println(Summ(1,2,3,4));
+
+
+    }
+
+
+
+    public static double Summ(double a, double b, double c, double d) {
+        return (a*(b+(c/d)));
+    }
+
+
+}

@@ -1,0 +1,16 @@
+public class F1rstApp {
+    public static void main(String[] args){
+
+
+
+        printImya("Василий");
+    }
+
+
+    public static void  printImya(String name){
+        System.out.println("Привет " + name  + "!") ;
+
+
+    }
+    
+}
